@@ -24,4 +24,10 @@ body {
     color: rgb(230, 230, 210);
     font-size: 24px;
     font-weight: 700;
+    list-style-position:inside;
+}
+.text {
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    font-weight: 800;
 }
