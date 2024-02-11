@@ -39,6 +39,7 @@ body {
     font-size: 24px;
     font-weight: 700;
     list-style-position:inside;
+    text-align:left;
 }
 .text {
     color: rgb(255, 255, 255);
@@ -77,4 +78,17 @@ body {
     background-color: rgb(120,0,0);
     height:100vh;
     width:200px;
+}
+.link.recipe {
+    display:block;
+    margin:auto;
+    width: 350px;
+}
+.recipeholder {
+    display:block;
+    margin:auto;
+    width: 225px;
+}
+.instructions {
+    width: 300px;
 }
